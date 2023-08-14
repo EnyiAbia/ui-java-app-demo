@@ -20,3 +20,11 @@ this is for git practice
 ```
 ps -eaf
 ```
+
+### create table of tools with rating 
+
+| tools name | rating |
+|------------|-----------|
+| unix | 4 |
+| github | 3|
+| kubernetes | 5 |
