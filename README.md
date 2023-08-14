@@ -14,3 +14,9 @@ this is for git practice
 - terraform
 - ansible
 - docker
+
+## command to list process 
+
+```
+ps -eaf
+```
