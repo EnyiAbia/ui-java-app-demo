@@ -14,3 +14,5 @@ WORKDIR /app
 ENTRYPOINT ["dotnet", "Worker.dll"]
 
 COPY --from=builder /out .
+
+lbfeijohjh
