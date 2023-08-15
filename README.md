@@ -2,7 +2,7 @@
 this is for git practice
 
 # this git & github training 
-
+yes!!!
 
 # tools that we discuss in training are below 
 
@@ -14,6 +14,7 @@ this is for git practice
 - terraform
 - ansible
 - docker
+- monitoring
 
 ## command to list process 
 
