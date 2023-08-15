@@ -2,7 +2,7 @@
 this is for git practice
 
 # this git & github training 
-
+yes!!!
 
 # tools that we discuss in training are below 
 
