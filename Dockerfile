@@ -15,4 +15,4 @@ ENTRYPOINT ["dotnet", "Worker.dll"]
 
 COPY --from=builder /out .
 
-lbfeijohjh
+CMD [echo test]
