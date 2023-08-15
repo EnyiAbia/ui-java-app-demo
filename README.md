@@ -14,6 +14,7 @@ this is for git practice
 - terraform
 - ansible
 - docker
+- monitoring
 
 ## command to list process 
 
