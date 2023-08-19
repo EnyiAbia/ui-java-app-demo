@@ -9,7 +9,7 @@ yes!!!
 - git
 - github
 - unix
-- shell
+- shellscript
 - aws
 - terraform
 - ansible
