@@ -9,7 +9,7 @@ COPY src/Worker/ .
 RUN dotnet publish -c Release -o /out Worker.csproj
 
 # app image
-# Tutor by Bobo
+
 FROM mcr.microsoft.com/dotnet/core/runtime:2.1
 
 WORKDIR /app
